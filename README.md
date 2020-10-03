@@ -5,6 +5,12 @@ https://medium.com/@rdeep/without-tensorflow-web-app-with-object-detection-api-i
 Live Demo
 https://objectdetectiontut.herokuapp.com/
 
-![enter image description here](https://cdn-images-1.medium.com/max/800/1*efAXhtg1Xe4oDCkaG0e0Xg.png)
+![enter image description here](https://i.ibb.co/JvfVcjZ/Screenshot-2020-10-03-142642.png)
 
-![enter image description here](https://cdn-images-1.medium.com/max/800/1*m5GTvwTouNu0DvG7Wa2CRA.jpeg)
+![enter image description here](https://i.ibb.co/MpNMX45/Screenshot-2020-10-03-142800.png)
+
+![enter image description here](https://i.ibb.co/G3T0msz/Screenshot-2020-10-03-142846.png)
+
+![enter image description here](https://i.ibb.co/VpRp9wS/Screenshot-2020-10-03-143033.png)
+
+![enter image description here](https://i.ibb.co/qdNJ6H0/Screenshot-2020-10-03-150427.png)
