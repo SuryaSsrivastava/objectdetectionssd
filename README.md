@@ -1,4 +1,4 @@
-# Object Detection using SSD
+# Object Detection using SSD(Single Shot Detection)
 
 Live Demo
 https://objectdetectionssd.herokuapp.com/
